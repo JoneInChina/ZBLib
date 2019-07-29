@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZBLib_Tests' do
+  pod 'ZBLib', :path => '../'
+  
+  
+end
