@@ -1,0 +1,6 @@
+framework module ZBLib {
+  umbrella header "ZBLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
